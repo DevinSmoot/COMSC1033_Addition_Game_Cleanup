@@ -7,7 +7,7 @@ public class PenBoolean {
 		String color = get.next();
 		//isPenBlue(color);
 		if(isPenBlue(color)) {
-			System.out.println("Pen is "+color);
+			System.out.println("Pen is blue");
 		}else{
 			System.out.println("Pen is not blue. It is "+color);
 		}
